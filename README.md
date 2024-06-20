@@ -5,9 +5,8 @@
 A company wants to gain insights into its sales performance and key metrics to improve operational efficiency and strategic decision-making. They seek to monitor total sales, quantity sold, delivery efficiency, and returned orders while analysing sales distribution by segment and market. Additionally, they aim to identify top customers, high-profit products, low-profit products, and regional sales patterns. The ability to filter data by selecting a specific year is also crucial for year-over-year analysis.
 
  ## Report Snapshot
-
  
-![Superstore Report](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/8e9f2fd5-d781-4e70-a531-27c7d8cb39b7)
+![Screenshot 2024-06-20 134710](https://github.com/varadkadtan/Global_superstore_data_analysis_Power-Bi/assets/103556886/ed220153-60cf-43de-bde4-9f2651d7715c)
 
 ## Steps followed 
 #### 1.	Data Collection and Preparation:
@@ -36,26 +35,22 @@ A company wants to gain insights into its sales performance and key metrics to i
 -	Average Delivery Days offer insights into the efficiency of logistics and order fulfilment processes.
 -	Analysis of Returned Orders helps gauge customer satisfaction and identify areas for improvement in product quality or customer service.
 
-![image](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/68f7da8e-0e31-4730-8d87-e0ad7b594bd0)
-
+![Screenshot 2024-06-20 134754](https://github.com/varadkadtan/Global_superstore_data_analysis_Power-Bi/assets/103556886/315209bc-bd5d-41bf-a48c-ebb87b3ae7e7)
 
 ### 2.	Segment and Market Analysis:
 -	The Pie Chart and Donut Chart illustrate sales distribution by Segment and Market respectively, highlighting areas of strength and opportunities for growth across different segments and markets.
 
-![image](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/5bc35a5f-94ea-4495-a06b-bc65c0f2ceb8)
-
+![Screenshot 2024-06-20 134801](https://github.com/varadkadtan/Global_superstore_data_analysis_Power-Bi/assets/103556886/b07f32dd-6951-4452-b475-348b9cf4f30a)
 
 ### 3.	Customer Insights:
 -	Identification of top 10 customers aids in recognizing key accounts driving revenue, facilitating targeted sales and retention strategies.
 
-![image](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/dcb6019b-98b4-4320-bef6-75968764a36b)
-
+![Screenshot 2024-06-20 134817](https://github.com/varadkadtan/Global_superstore_data_analysis_Power-Bi/assets/103556886/43f7cc08-2c74-4295-9f11-baf12050e31d)
 
 ### 4.	Product Performance:
 -	Analysis of top 5 Profit and Loss Products guides product management decisions, focusing on promoting profitable products and addressing issues with low-performing products.
 
-
-![image](https://github.com/karankumar26/Global_Superstore_Dashboard_PowerBI/assets/147133944/10bf71f8-9f9b-4c8e-958b-9134e46189dd)
+![Screenshot 2024-06-20 134825](https://github.com/varadkadtan/Global_superstore_data_analysis_Power-Bi/assets/103556886/a13ac73e-7d94-4cde-a28e-bd9071c871c8)
 
 ## Conclusion
 This visualization file showcases the actionable insights into various aspects of the company's operations, enabling informed decision-making to drive growth and profitability.
